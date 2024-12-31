@@ -1,3 +1,10 @@
+// Time complexity [ avg - O(n^2) | worst - O(n^2) | best O(n) ].
+// Space complexity [ O(1) = constant ].
+// Inplace = yes.
+// Stable = Yes.
+// Approach = Subtract and Conquare.
+
+/* 											Insertion sort / Online Sort														*/ 
 #include<iostream>
 using namespace std;
 
